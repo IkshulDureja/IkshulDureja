@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, I'm IKSHUL 👋
 
 <!--
 **IkshulDureja/IkshulDureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+In short, I am a Full Stack Web Developer and an all time geek.
+______________________________________________________________
 
 Here are some ideas to get you started:
 
@@ -14,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fact: Make it all worth it!
 -->
-
