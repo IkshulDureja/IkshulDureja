@@ -21,3 +21,13 @@
 <a href="https://www.instagram.com/ikshuldureja/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
 <a href="https://medium.com/@ikshuldureja130"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a>
 <a href="https://twitter.com/IkshulD"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a>
+
+## Skills
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ 
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase
+<img src="https://img.icons8.com/color/48/000000/react.png"/> React
+<img src="https://img.icons8.com/color/48/000000/JavaScript.png"/> Javascript
+<img src="https://img.icons8.com/color/48/000000/git.png"/> Git
+<img src="https://img.icons8.com/color/48/000000/github.png"/> Github
+<img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+
