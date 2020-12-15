@@ -25,8 +25,7 @@
 ## Skills
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ 
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase
-<img src="https://img.icons8.com/color/48/000000/react.png"/> React
-<img src="https://img.icons8.com/color/48/000000/JavaScript.png"/> Javascript
+<img src="https://img.icons8.com/color/48/000000/js.png"/> Javascript
 <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
 <img src="https://img.icons8.com/color/48/000000/github.png"/> Github
 <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
