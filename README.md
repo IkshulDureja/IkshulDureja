@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning - Competitive Programming
 - 👯 I’m looking to collaborate on - Web Development with React and Firebase
 - 💬 Ask me about - Literally anything!!
-- 📫 How to reach me: Contact me through mail-ikshuldureja130@gmail.com
+- 📫 How to reach me: Contact me through mail- ikshuldureja130@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fact: Making it all worth it!
 
